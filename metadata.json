@@ -1,0 +1,7 @@
+{
+  "name": "Cao Bằng - Vẻ Đẹp Đại Ngàn",
+  "description": "Trang web quảng bá du lịch Cao Bằng với thông tin chi tiết về Thác Bản Giốc, Chùa Trúc Lâm Bản Giốc và Pắc Bó, cùng tính năng nhận xét và ghi danh khách tham quan.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
